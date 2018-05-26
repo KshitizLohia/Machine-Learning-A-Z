@@ -37,11 +37,11 @@ Pick values from decision trees and take average
 
 
 ## Naive Bayes
-![Alt text](Naive Bayes 1.png?raw=true "Title")
+![Alt text](NaiveBayes1.png?raw=true "Title")
 
-![Alt text](Naive Bayes 2.png?raw=true "Title")
+![Alt text](NaiveBayes2.png?raw=true "Title")
 
-![Alt text](Naive Bayes 3.png?raw=true "Title")
+![Alt text](NaiveBayes3.png?raw=true "Title")
 
 
 
