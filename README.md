@@ -20,7 +20,7 @@ Pick values from decision trees and take average
 ![Alt text](kernelsvm.png?raw=true "Title")
 
 
-![Alt text](kernelSVM2.png.png?raw=true "Title")
+![Alt text](kernelSVM2.png?raw=true "Title")
 
 ![Alt text](kernelsvm3.png?raw=true "Title")
 
