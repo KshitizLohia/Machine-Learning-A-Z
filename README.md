@@ -25,6 +25,9 @@ Pick values from decision trees and take average
 ![Alt text](kernelsvm3.png?raw=true "Title")
 
 
+### Kernel types
+![Alt text](kerneltypes.png?raw=true "Title")
+
 ### Kernel Gaussian
 
 ![Alt text](kernelgaussian.png?raw=true "Title")
