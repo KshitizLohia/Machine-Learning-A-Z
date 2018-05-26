@@ -15,6 +15,25 @@ Pick values from decision trees and take average
 ## SVM
 ![Alt text](SVM.png?raw=true "Title")
 
+
+## Kernel SVM (Non linear separable)
+![Alt text](kernelsvm.png?raw=true "Title")
+
+
+![Alt text](kernelSVM2.png.png?raw=true "Title")
+
+![Alt text](kernelsvm3.png?raw=true "Title")
+
+
+### Kernel Gaussian
+
+![Alt text](kernelgaussian.png?raw=true "Title")
+
+![Alt text](kernelgaussian2.png?raw=true "Title")
+
+
+
+
 ## R Sqaured
 ![Alt text](rsquared.png?raw=true "Title")
 
